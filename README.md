@@ -2,7 +2,7 @@ Recommender System
 ===================
 
 
-This is a simple recommender system that uses [lightfm](https://docs.scipy.org/doc/numpy/reference/generated/numpy.argsort.html) library to generate recommendation from [movie-lens 100k](https://grouplens.org/datasets/movielens/100k/) dataset. This program is almost similar to the one in the documentation. I have to write few more methods to train it on movielens-1M dataset.
+This is a simple recommender system that uses [lightfm](https://lyst.github.io/lightfm/docs/home.html) library to generate recommendation from [movie-lens 100k](https://grouplens.org/datasets/movielens/100k/) dataset. This program is almost similar to the one in the documentation. I have to write few more methods to train it on movielens-1M dataset.
 
 
 External Dependencies
